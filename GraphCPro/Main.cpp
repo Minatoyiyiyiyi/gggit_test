@@ -11,6 +11,7 @@ int main()
 	int choice;
 	while (bRunning)
 	{
+		cout << "仅当测试git用！！！！！！！！！！！！！！！！！！！！！！！！！！！";
 		//输出界面
 		cout << " = = = = 景区信息管理系统 = = = = " << endl;
 		cout << "1.创建景区景点图 "<< endl;
